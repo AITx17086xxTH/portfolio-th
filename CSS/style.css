@@ -852,7 +852,7 @@ header .headerMenu li a{
 .wave{
   font-size: 16px;
   position: absolute;
-  top: 35%;
+  top: 30%;
   left: 0%;
 }
 
@@ -869,7 +869,7 @@ header .headerMenu li a{
 .topview h1{
   color: #565656;
   position: absolute;
-  top: 52%;
+  top: 50%;
   left: 0%;
 }
 
@@ -1264,14 +1264,14 @@ color: #b0c4b1;
 }
 
 #contactForm input{
-width: 100%;
+  width: 95%;
 height: 36px;
 border: none;
 margin-bottom: 24px;
 }
 
 #contactForm textarea{
-  width: 100%;
+  width: 95%;
   height: 120px;
   border: none;
 
